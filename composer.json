@@ -1,0 +1,16 @@
+{
+    "name": "infomaniak/sdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Infomaniak\\Sdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Quentin Jungo",
+            "email": "contact@qjungo.ch"
+        }
+    ],
+    "require": {}
+}
